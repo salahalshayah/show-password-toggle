@@ -18,6 +18,9 @@ A minimal Chrome extension that lets you toggle password visibility fields on an
 4. Click **Load Unpacked**
 5. Select this folder
 
+## Chrome Web Store
+(link)[https://chromewebstore.google.com/detail/nednmhfepjogcngfinlpcacmnnecjjpp]
+
 ## 📜 License
 
 MIT — see LICENSE file
